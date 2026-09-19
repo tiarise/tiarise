@@ -9,7 +9,7 @@ Feel free to browse!
 * 🔭 Always on the lookout for level-ups!
 * ⚙️ Some time ago, I found a new passion: optimizing large game worlds! 
 * 👨‍💻 I love tinkering with tech! (Too much...)
-* 🦆 In my opinion, ducks and cats are the best!
+* 🦆 Ducks and cats are the best!
 
 ### A little bit more 
 
