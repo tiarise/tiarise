@@ -8,7 +8,7 @@ Feel free to browse!
 * 🧙‍♂️ I'm on my lifelong journey to become a legendary archmage of game development!
 * 🔭 Always on the lookout for level-ups!
 * ⚙️ Some time ago, I found a new passion: optimizing large game worlds! 
-* 👨‍💻 I love tinkering with tech! (Too much...)
+* 👨‍💻 I love tinkering with tech!
 * 🦆 Ducks and cats are the best!
 
 ### A little bit more 
