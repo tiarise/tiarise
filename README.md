@@ -14,5 +14,5 @@ Feel free to browse!
 ### A little bit more 
 
 🎮 I'm a `Senior Game Engineer` with over 8 years under my belt. 🎮<br>
-I've worked with commercial and in-house engines, and on several projects over the years. I started out as a Gameplay Programmer but I pivoted more to the engine side later.<br>
+I've worked with commercial and in-house engines, and on several projects over the years. I started out as a Gameplay Programmer but I pivoted more to the engine side later.
 If you wish to reach out or check what I've worked on, visit my <a href="https://www.linkedin.com/in/adambanoczki/"><img src="https://img.shields.io/badge/LinkedIn-0072b1" height="18" align="center" /></a>
